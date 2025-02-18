@@ -33,4 +33,4 @@ x^2.5+3*x+5
 (x^2.5-4*x)/(3*x+5)
 ```
 
-Projekt realizowany w ramach zaliczenia eksternistycznego zajęć laboratoryjnych z Podstaw Programowania u [dr inż. Pawła Rogalińskiego]((https://wit.pwr.edu.pl/wydzial/struktura-organizacyjna/pracownicy/pawel-rogalinski)).
+Projekt realizowany w ramach zaliczenia eksternistycznego zajęć laboratoryjnych z Podstaw Programowania u [dr inż. Pawła Rogalińskiego](https://wit.pwr.edu.pl/wydzial/struktura-organizacyjna/pracownicy/pawel-rogalinski).
