@@ -843,12 +843,14 @@ namespace MathFormulaEvaluator
 
     MathFunction::MathFunction(MathExpression* arg) : MathExpression()
     {
-        argument = arg;
+        argument = arg->Copy();
+        type = MathExpressionType_Function;
     }
 
     MathFunction::MathFunction(const MathFunction& obj) : MathExpression()
     {
         argument = obj.argument->Copy();
+        type = MathExpressionType_Function;
     }
 
     MathFunction::~MathFunction()
